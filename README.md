@@ -15,7 +15,6 @@
   <a href="https://react.ohif.org/">Component Library</a>
 </div>
 
-
 <hr />
 
 [![NPM version][npm-version-image]][npm-url]
@@ -273,7 +272,7 @@ development of OHIF Viewer:
   Leidos Biomedical Research under Task Order HHSN26100071 from NCI.
   [IDC Viewer](https://learn.canceridc.dev/portal/visualization) is a customized
   version of the OHIF Viewer.
-  
+
 ### Research notice
 Please note that this repository is participating in a study into sustainability
  of open source projects. Data will be gathered about this repository for
